@@ -1,0 +1,42 @@
+<!DOCTYPE html
+  SYSTEM "">
+<html xmlns:r="http://apache.org/cocoon/SQL/2.0">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+      <meta NAME="DCS.dcsuri" content="/docs/34280/ihlp-2020cz-01.pdf">
+      <noscript><img src="http://vishay.112.2o7.net/b/ss/vishayprod/1/H.23.6--NS/0" height="1" width="1" border="0" alt=""></noscript><script type="text/javascript" src="/scripts/VISHAY.Analytics.js"></script><script type="text/javascript" src="/scripts/VISHAY.Analytics.Common.js"></script><script type="text/javascript" src="/scripts/VISHAY.Analytics.Clicks.js"></script><noscript>
+         <meta http-equiv="refresh" content="0;URL=/docs/34280/ihlp-2020cz-01.pdf">
+      </noscript><script type="text/javascript">				
+				(function() {
+					
+					
+					if(document.referrer.indexOf('mosfet') > 0){
+						var imgsrc = document.location.protocol+ '//www.visitortracklog.com/loghit.asp?id=107448&vr=4.0&rp='+ escape(document.referrer) + '&pa=http://www.vishay.com'+escape("0;URL=/docs/34280/ihlp-2020cz-01.pdf".substring(6));
+						var tag = '<img border="0" alt="" src="' + imgsrc + '">';
+						document.write(tag);
+					}else{}
+						
+				})();
+				
+			</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-WS7ZHK3');
+			</script></head>
+   <body ONLOAD="handleBackButton()"><input type="hidden" id="typeOfPage" name="typeOfPage" value="Product Datasheet Page"><input type="hidden" id="channel" name="channel" value="Datasheet Page"><FORM NAME="_mine"><INPUT NAME="_a1" VALUE="1" STYLE="visibility:hidden;"><input name="to_go" type="hidden" value="/docs/34280/ihlp-2020cz-01.pdf"><input name="dcsuri" type="hidden" value="/docs/34280/ihlp-2020cz-01.pdf"></FORM><SCRIPT LANGUAGE="JAVASCRIPT">
+						var x="1";
+						var isBack;
+						function handleBackButton(){
+						   isBack = (x != document._mine._a1.value);
+						   document._mine._a1.value=2;
+						   document._mine._a1.defaultValue=2;
+						   
+						   if (isBack){ 
+								history.back();
+						   }else{
+								window.location = document._mine.to_go.value;
+						   }
+						}
+					</SCRIPT></body>
+</html>
